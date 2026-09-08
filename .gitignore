@@ -1,1 +1,5 @@
-API1/node_modules/.bin/nodemon
+/API1/node_modules
+/API2/node_modules
+/API3/node_modules
+/API4/node_modules
+/API5/node_modules
