@@ -1,0 +1,17 @@
+{
+  "name": "API3",
+  "version": "1.0.0",
+  "description": "Control de Inventario",
+  "main": "index3.js",
+  "scripts": {
+    "dev": "nodemon index3.js",
+    "start": "node index3.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
